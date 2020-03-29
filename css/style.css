@@ -242,4 +242,5 @@ p {
 #contact .contact-form input,
 #contact .contact-form textarea{
     width: 100%;
+    padding: .5rem;
 }
